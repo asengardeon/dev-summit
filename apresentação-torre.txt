@@ -1,0 +1,4 @@
+Record
+Switch simplificado, switch com retorno
+
+
